@@ -3,7 +3,7 @@
 > Elegant terminal spinner
 
 <p align="center">
-	<img src="https://rawgit.com/sindresorhus/ora/master/screenshot.svg" width="500">
+	<img src="https://cdn.jsdelivr.net/gh/sindresorhus/ora@master/screenshot.svg" width="500">
 </p>
 
 
